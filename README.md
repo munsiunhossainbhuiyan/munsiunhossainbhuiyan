@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm MD.Munsiun Hossain Bhuiyan</h1>
 <h3 align="center">Full-Stack Software Engineer | Founder of CYBERNEX TECHNOLOGIES | Building Scalable Solutions, Engineering Digital Experiences & Exploring Cybersecurity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munsiunhossainbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="munsiunhossainbhuiyan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munsiunhossainbhuiyan" alt="munsiunhossainbhuiyan" /></a> </p>
 
 - 🔭 I’m currently working on [se131-diu project](https://github.com/munsiunhossainbhuiyan/diudsproject-se131)
